@@ -1,0 +1,4 @@
+markitdown[all]
+Pillow
+pywin32
+pypdf
